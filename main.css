@@ -1,6 +1,24 @@
+
+@media screen
+
+and (min-width: 600px)
+
+
+and (min-width: 900px) {
+
+}
+
 body {
   background-color: powderblue;
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 1.3em;
+  line-height: 1.4;
 
+}
+
+.text {
+  (max-width: 600px) 75vw;
+  min-width:
 }
 
 img {
